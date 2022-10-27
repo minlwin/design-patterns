@@ -16,9 +16,9 @@ Software တွေကို ရေးသားကြတဲ့အခါ ကြု
 Object တွေကို တည်ဆောက်တဲ့ အပိုင်းနဲ့ ပတ်သက်တဲ့ Design Patterns တွေဖြစ်ကြပါတယ်။
 
 1. [Singleton Pattern](p01_singleton)
-2. Factory Method Pattern
-3. Builder Pattern
-4. Abstract Factory Pattern
+2. [Factory Method Pattern](p02_factory_method)
+3. [Builder Pattern](p03_builder)
+4. [Abstract Factory Pattern](p04_abstract_factory)
 5. Prototype Pattern 
 
 ## Structural Patterns
