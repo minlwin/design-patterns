@@ -30,7 +30,8 @@ Object တွေရဲ့ ဖွဲ့စည်းတည်ဆောက်ပု
 3. Proxy Pattern
 4. Bridge Pattern
 5. Facade Pattern
-6. Flyweight Pattern
+6. Composite Pattern
+7. Flyweight Pattern
 
 ## Behavioral Patterns
 
