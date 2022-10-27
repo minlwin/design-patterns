@@ -38,7 +38,8 @@ public class Student {
 	}
 
 	public static class Builder {
-
+		
+		// Same Fields as Target Class
 		private int id;
 		private String name;
 		private String phone;
