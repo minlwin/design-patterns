@@ -25,7 +25,24 @@ Object တွေကို တည်ဆောက်တဲ့ အပိုင်�
 
 Object တွေရဲ့ ဖွဲ့စည်းတည်ဆောက်ပုံနဲ့ပတ်သက်တဲ့ Design Pattern တွေဖြစ်ကြပါတယ်။
 
+1. Adapter Pattern
+2. Decorator Pattern
+3. Proxy Pattern
+4. Bridge Pattern
+5. Facade Pattern
+6. Flyweight Pattern
+
 ## Behavioral Patterns
 
 Object တွေရဲ့ လုပ်ဆောင်ပုံနဲ့ပတ်သက်တဲ့ Design Pattern တွေဖြစ်ကြပါတယ်။
 
+1. Template Method Pattern
+2. Iterator Pattern
+3. Visitor Pattern
+4. Observer Pattern 
+5. Command Pattern
+6. Mediator Pattern
+7. State Pattern
+8. Stategy Pattern
+9. Chain of Responsibility Pattern
+10. Memento Pattern
