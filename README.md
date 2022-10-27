@@ -1,2 +1,31 @@
-# design-patterns
-Lecture of One Stop Batch 3
+# Learning Design Patterns
+
+Software တွေကို ရေးသားကြတဲ့အခါ ကြုံတွေ့ရတတ်တဲ့ ပြဿနာလေးတွေရှိတတ်ကြပါတယ်။ ဒီနေ့ ကျွန်တော်တို့ ကြုံတွေ့နေကြရတဲ့ ပြဿနာတွေကလဲ အရင်တုန်းကထဲက ကြုံတွေ့ဘူးပြီးသား ပြဿနာတွေက များပါတယ်။ 
+
+အရင်လူတွေက အဆိုပြပါဿနာတွေနဲ့ ကြုံတွေ့တဲ့အခါ ဘယ်လို Object Design တွေနဲ့ ဖြေရှင်းခဲ့ကြတယ် ဆိုတာတွေဟာ ရှိပြီးသားဖြစ်ပါတယ်။ ပြဿနာ Pattern အလိုက် ဖြေရှင်းနိုင်တဲ့ Object Design တွေကတော့ OO Design Patterns တွေပဲ ဖြစ်ပါတယ်။
+
+တစ်ခုသတိထားဖို့လိုတာကတော့ Design Patterns တွေဟာ အရာရာတိုင်းကို ဖြေရှင်းနိုင်တာမဟုတ်ပါဘူး။ ပြဿနာ Pattern နဲ့ ကိုက်ညီတဲ့ Design Pattern တွေကို မှန်မှန်ကန်ကန် ရွေးချယ် အသုံးပြုနိုင်ဖို့လိုအပ်မယ် ထင်ပါတယ်။
+
+ကျွန်တော််တို့ JDC မှာတော့ OOP ကို လေ့လာပြီးတာနဲ့ Design Pattern တွေအကြောင်းကို လေ့လာစေပါတယ်။ ရည်ရွယ်ချက်ကတော့ Object Design တွေကို ဒီလိုလဲ သုံံးလို့ရတယ် ဆိုတာကို မြင်စေချင်လို့ ဖြစ်ပါတယ်။ 
+
+ဒီ Repository ကတော့ One Stop Bootcamp Batch 3 မှာ Design Pattern အကြောင်း သင်ကြားတုန်းက အသုံးပြုခဲ့တဲ့ နမူနာ Project များကို စုစည်းထားတဲ့ Repository ဖြစ်ပါတယ်။ နမူနာတွေကိုတော့ Java Language ကိုပဲ အသုံးပြုရေးသားထားတာ ဖြစ်ပါတယ်။
+
+
+## Creational Patterns
+
+Object တွေကို တည်ဆောက်တဲ့ အပိုင်းနဲ့ ပတ်သက်တဲ့ Design Patterns တွေဖြစ်ကြပါတယ်။
+
+1. [Singleton Pattern](p01_singleton/README.md)
+2. Factory Method Pattern
+3. Builder Pattern
+4. Abstract Factory Pattern
+5. Prototype Pattern 
+
+## Structural Patterns
+
+Object တွေရဲ့ ဖွဲ့စည်းတည်ဆောက်ပုံနဲ့ပတ်သက်တဲ့ Design Pattern တွေဖြစ်ကြပါတယ်။
+
+## Behavioral Patterns
+
+Object တွေရဲ့ လုပ်ဆောင်ပုံနဲ့ပတ်သက်တဲ့ Design Pattern တွေဖြစ်ကြပါတယ်။
+
