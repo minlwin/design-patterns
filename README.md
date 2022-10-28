@@ -47,3 +47,4 @@ Object တွေရဲ့ လုပ်ဆောင်ပုံနဲ့ပတ်
 8. Stategy Pattern
 9. Chain of Responsibility Pattern
 10. Memento Pattern
+11. Interpreter Pattern
