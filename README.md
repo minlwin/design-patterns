@@ -19,7 +19,7 @@ Object တွေကို တည်ဆောက်တဲ့ အပိုင်�
 2. [Factory Method Pattern](p02_factory_method)
 3. [Builder Pattern](p03_builder)
 4. [Abstract Factory Pattern](p04_abstract_factory)
-5. Prototype Pattern 
+5. [Prototype Pattern](p05_prototype) 
 
 ## Structural Patterns
 

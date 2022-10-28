@@ -2,9 +2,9 @@ package com.jdc.prototype;
 
 public class ToolBox {
 
-	private Triangle triangle;
-	private Circle circle;
-	private Square square;
+	private Shape triangle;
+	private Shape circle;
+	private Shape square;
 	
 	public ToolBox(Triangle triangle, Circle circle, Square square) {
 		super();
