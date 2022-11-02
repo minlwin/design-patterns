@@ -26,7 +26,7 @@ Object တွေကို တည်ဆောက်တဲ့ အပိုင်�
 Object တွေရဲ့ ဖွဲ့စည်းတည်ဆောက်ပုံနဲ့ပတ်သက်တဲ့ Design Pattern တွေဖြစ်ကြပါတယ်။
 
 1. [Adapter Pattern](p06_adapter)
-2. Decorator Pattern
+2. [Decorator Pattern](p07_decorator)
 3. Proxy Pattern
 4. Bridge Pattern
 5. Facade Pattern

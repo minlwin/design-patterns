@@ -1,12 +1,9 @@
 package com.jdc.coffee.shop;
 
-public class IceDecorator implements Maker {
-
-	private Maker maker;
+public class IceDecorator extends CoffeeMakerDecorator {
 
 	public IceDecorator(Maker maker) {
-		super();
-		this.maker = maker;
+		super(maker);
 	}
 
 	@Override
