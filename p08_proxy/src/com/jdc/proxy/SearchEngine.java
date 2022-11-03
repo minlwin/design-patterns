@@ -13,8 +13,7 @@ public class SearchEngine implements SearchService{
 		engine.put("japanese hi", "konni chiwa");
 		engine.put("sayonara", "Good Bye");
 		engine.put("thanks", "Arigato");
-		engine.put("java", "Programming Language");
-		
+		engine.put("java", "Programming Language");	
 	}
 
 	@Override
