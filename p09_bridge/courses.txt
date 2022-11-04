@@ -1,0 +1,4 @@
+1	Java Basic	Basic	120	300000
+2	Spring Framework	Intermediate	240	500000
+3	Flutter Foundation	Basic	120	300000
+4	Angular	Basic	120	300000
