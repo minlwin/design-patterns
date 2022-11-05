@@ -29,7 +29,7 @@ Object တွေရဲ့ ဖွဲ့စည်းတည်ဆောက်ပု
 2. [Decorator Pattern](p07_decorator)
 3. [Proxy Pattern](p08_proxy)
 4. [Bridge Pattern](p09_bridge)
-5. Facade Pattern
+5. [Facade Pattern](p10_facade)
 6. Composite Pattern
 7. Flyweight Pattern
 
